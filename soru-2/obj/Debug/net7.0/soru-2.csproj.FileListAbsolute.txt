@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\C#101 Ödev 19 Koleksiyonlarla ilgili algoritma soruları\soru-2\bin\Debug\net7.0\soru-2.exe
+c:\Users\muaze\Desktop\C#101 Ödev 19 Koleksiyonlarla ilgili algoritma soruları\soru-2\bin\Debug\net7.0\soru-2.deps.json
+c:\Users\muaze\Desktop\C#101 Ödev 19 Koleksiyonlarla ilgili algoritma soruları\soru-2\bin\Debug\net7.0\soru-2.runtimeconfig.json
+c:\Users\muaze\Desktop\C#101 Ödev 19 Koleksiyonlarla ilgili algoritma soruları\soru-2\bin\Debug\net7.0\soru-2.dll
+c:\Users\muaze\Desktop\C#101 Ödev 19 Koleksiyonlarla ilgili algoritma soruları\soru-2\bin\Debug\net7.0\soru-2.pdb
+c:\Users\muaze\Desktop\C#101 Ödev 19 Koleksiyonlarla ilgili algoritma soruları\soru-2\obj\Debug\net7.0\soru-2.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\C#101 Ödev 19 Koleksiyonlarla ilgili algoritma soruları\soru-2\obj\Debug\net7.0\soru-2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\C#101 Ödev 19 Koleksiyonlarla ilgili algoritma soruları\soru-2\obj\Debug\net7.0\soru-2.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\C#101 Ödev 19 Koleksiyonlarla ilgili algoritma soruları\soru-2\obj\Debug\net7.0\soru-2.AssemblyInfo.cs
+c:\Users\muaze\Desktop\C#101 Ödev 19 Koleksiyonlarla ilgili algoritma soruları\soru-2\obj\Debug\net7.0\soru-2.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\C#101 Ödev 19 Koleksiyonlarla ilgili algoritma soruları\soru-2\obj\Debug\net7.0\soru-2.dll
+c:\Users\muaze\Desktop\C#101 Ödev 19 Koleksiyonlarla ilgili algoritma soruları\soru-2\obj\Debug\net7.0\refint\soru-2.dll
+c:\Users\muaze\Desktop\C#101 Ödev 19 Koleksiyonlarla ilgili algoritma soruları\soru-2\obj\Debug\net7.0\soru-2.pdb
+c:\Users\muaze\Desktop\C#101 Ödev 19 Koleksiyonlarla ilgili algoritma soruları\soru-2\obj\Debug\net7.0\soru-2.genruntimeconfig.cache
+c:\Users\muaze\Desktop\C#101 Ödev 19 Koleksiyonlarla ilgili algoritma soruları\soru-2\obj\Debug\net7.0\ref\soru-2.dll
